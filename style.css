@@ -175,6 +175,7 @@ body {
 }
 
 .callaction h2 {
+	color: var(--DarkCyan);
 	font-size: clamp(25px, 3.5vh, 35px);
 	margin-bottom: 20px;
 	font-weight: 700;
@@ -184,7 +185,7 @@ body {
 	background-color: var(--pink);
 	text-decoration: none;
 	color: white;
-	padding: 15px 60px;
+	padding: 20px 80px;
 	border-radius: 100px;
 	display: inline-block;
 	font-weight: 700;
